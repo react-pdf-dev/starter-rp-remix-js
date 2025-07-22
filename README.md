@@ -1,4 +1,4 @@
-# React PDF Starter Toolkit in Remix and Javascript
+# React PDF Starter Toolkit in Remix and JavaScript
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/pdf-viewer-react/starter-rp-remix-js)
 
