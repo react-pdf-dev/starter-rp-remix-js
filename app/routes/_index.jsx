@@ -1,6 +1,6 @@
 import { ClientOnly } from "remix-utils/client-only";
 import { RPConfig } from "@pdf-viewer/react";
-import { AppPdfViewer } from "../components/AppPDFViewer";
+import { AppPdfViewer } from "../components/AppPdfViewer";
 
 export default function Index() {
   return (
