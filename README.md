@@ -1,6 +1,6 @@
 # React PDF Starter Toolkit in Remix and JavaScript
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/pdf-viewer-react/starter-rp-remix-js)
+[![Open example in codesandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/react-pdf-dev/starter-rp-remix-js/main)
 
 Welcome to the React PDF Starter Toolkit! This repository provides a comprehensive guide on integrating React PDF with Remix and JavaScript. It showcases how React PDF can be integrated and rendered as part of a React.js project.
 
